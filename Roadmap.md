@@ -8,5 +8,5 @@
 
 ## 2. User content
 * user can create, update and delete their profiles
-* dynamic webpages
+* User Interfaces can access dynamically different data-sources on runtime
 * decentralized databases
