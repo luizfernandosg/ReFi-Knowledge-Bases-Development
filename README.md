@@ -16,10 +16,10 @@ Using open data standards and opensource technology we want to enable as much pr
 
 ## In this Repo
 
+[Glossar](Glossar.md)
+
 [Requirements](Requirements.md)
 
 [Concepts](Concepts.md)
-
-[Glossar](Glossar.md)
 
 [Schema](Schema.md)
