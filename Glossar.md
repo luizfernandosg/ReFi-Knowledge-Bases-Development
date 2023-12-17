@@ -21,7 +21,7 @@ A Field is one data unit inside of a [Schema](#Schema) like name, description, U
 A User is a natural person identified by different credentials like username and password or cryptographic keys.
 ### Group
 A Group is a Collection of multiple [Users](#User).
-### Semantic-Relationships
+### Semantic
 A Data Item can have a relationship to another Object described as a subject–predicate–object expressions (e.g., "Bob is 35", or "Bob knows John").
 
 ![](Pasted%20image%2020231217105448.png)
