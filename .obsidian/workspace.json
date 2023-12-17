@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary.md",
+                "file": "Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary.md",
+                "file": "Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary.md",
+                "file": "Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary.md"
+                "file": "Concepts.md"
               }
             }
           }
@@ -221,8 +221,8 @@
   },
   "active": "a7768ce98604e624",
   "lastOpenFiles": [
-    "Requirements.md",
     "Glossary.md",
+    "Requirements.md",
     "README.md",
     "Concepts.md",
     "Schema.md",

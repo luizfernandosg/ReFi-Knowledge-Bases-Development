@@ -15,4 +15,4 @@ see  [Composable Ontologies](https://docs.murmurations.network/about/ontology-co
 user can create, update and delete their profiles
 
 ## Adapters
-Enable User Interfaces can access dynamically different data-sources on runtime
+Enable User Interfaces to dynamically access different data-sources on runtime
