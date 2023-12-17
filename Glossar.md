@@ -1,6 +1,6 @@
 # Glossar
 ### Network
-A Network is a project maintaining a collection of Data Items for a some purpose in a some [Database](#database) and providing it via some [User Interface](#User-Interface).
+A Network (like ReFi DAO, Crypto Commons Association, ReFi Barcelona) is a project maintaining a collection of Data Items for a some purpose in some [Database](#database) and providing it via some [User Interface](#User-Interface).
 ### User-Interface
 An User Interface (UI) is an web page, app, chat bot or any other kind of frontend used for data presentation and or user interaction.
 ### Database
