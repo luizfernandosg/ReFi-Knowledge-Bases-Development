@@ -18,7 +18,9 @@ A Schema is a data template for a specific type of [Data Item](#Data-Item) (like
 ### Field
 A Field is one data unit inside of a [Schema](#Schema) like name, description, URL or address.
 ### User
-A User is a natural person identified by different credentials like username and password or cryptographic keys.
+A User is a natural person having one or multiple Identities
+### Identity
+A set of credentials like username and password or cryptographic keys.
 ### Group
 A Group is a Collection of multiple [Users](#User).
 ### Semantic
