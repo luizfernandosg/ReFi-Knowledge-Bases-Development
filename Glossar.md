@@ -4,7 +4,7 @@ A Network is a collection of Data Items in its own [Database](#database), with t
 ### User Interfaces
 An User Interface (UI) is an web page, app, chat bot or any other kind of frontend used for data presentation and or user interaction.
 ### Database
-A Database is a collection of [Data Items](Glossar#Data%20Item) stored on one or multiple server or within a p2p network.
+A Database is a collection of [Data Items](#Data%20Item) stored on one or multiple server or within a p2p network.
 ### Data Item
 Data Items are one specific entity inside a [Database](#database) like one specific project or event.
 ### Knowledge Graph
