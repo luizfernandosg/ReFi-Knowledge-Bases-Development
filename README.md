@@ -10,7 +10,7 @@ Every project and network has their specific focus and idea about change and we 
 
 We see the big challenge of our time in the integration of all these puzzle pieces.
 
-Our Goal is to create design patterns for an open ecosystem of users, projects, apps and databases which integrates in the best way possible with all the existing projects and networks. 
+Our Goal is to create design patterns for an open ecosystem of users, projects, apps and databases which integrates in the best way possible with all the existing and future projects and networks. 
 
 Using open data standards and opensource technology we want to enable as much projects and networks as possible to plug into each other and share their data and users.
 

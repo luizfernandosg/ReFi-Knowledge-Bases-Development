@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossar.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossar.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossar.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossar.md"
+                "file": "README.md"
               }
             }
           }
@@ -221,10 +221,10 @@
   },
   "active": "a7768ce98604e624",
   "lastOpenFiles": [
+    "Glossar.md",
     "Requirements.md",
     "Concepts.md",
     "README.md",
-    "Glossar.md",
     "Schema.md",
     "Pasted image 20231217105448.png",
     "Motivation.md",
