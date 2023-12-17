@@ -6,12 +6,16 @@ This repository contains concepts and resources for the development of the decen
 
 There are many projects, networks and application aiming to bring people together for change, collective action and manifesting new regenerative structures.
 
-Every project and network has their specific focus and idea about change and we acknowledge that their are myriads of ideas, apps and databases working in their way with their tools and technologies. That’s why the big challenge of our time is to integrate all these puzzle pieces.
+Every project and network has their specific focus and idea about change and we acknowledge that their are myriads of ideas, apps and databases working in their way with their tools and technologies.
 
-Our Goal is to connect various data sources with projects, people, events, places, resources and everything else needed for regeneration.
+We see the big challenge of our time in the integration of all these puzzle pieces.
 
-See [ReFi Barcelona Repository](https://github.com/antontranelis/ReFi-Barcelona/) for a sample implementation.
+Our Goal is to create design patterns for an open ecosystem of users, projects, apps and databases which integrates in the best way possible with all the existing projects and networks. 
+
+Using open data standards and opensource technology we want to enable as much projects and networks as possible to plug into each other and share their data and users.
+
+## About this Repo
 
 [[Requirements]]
 [[Schema]]
-[[Roadmap]]
+[[Concepts]]
