@@ -1,4 +1,4 @@
-# Glossar
+# Glossary
 ### Network
 A Network (like ReFi DAO, Crypto Commons Association, ReFi Barcelona) is a project maintaining a collection of Data Items for a some purpose in some [Database](#database) and providing it via some [User Interface](#User-Interface).
 ### User-Interface
