@@ -14,7 +14,7 @@ Our Goal is to create design patterns for an open ecosystem of users, projects, 
 
 Using open data standards and opensource technology we want to enable as much projects and networks as possible to plug into each other and share their data and users.
 
-## About this Repo
+## In this Repo
 
 [Requirements](Requirements.md)
 

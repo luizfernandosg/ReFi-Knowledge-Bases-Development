@@ -10,5 +10,5 @@ Requirements for the Knowledge Base
 * [Users](Glossar.md#Users) should be able to create, read, update and delete (CRUD) their [Data Items](Glossar.md#Data-Item)
 * [Users](Glossar.md#Users) should be able to access [Data Items](Glossar.md#Data-Item) from different Databases with one [User Interface](Glossar.md#User-Interface)
 * [User Interfaces](Glossar.md#User-Interface) should be able to access [Data Items](Glossar.md#Data-Item) from different [Databases](Glossar.md#Database) via APIs
-* [Data Items](Glossar.md#Data-Item) should be able to have [semantic relations](Glossar.md#Semantic) with each other
+* [Data Items](Glossar.md#Data-Item) should be able to have [Semantic Relations](Glossar.md#Semantic)
 * The Knowledge Base should use open data standards and opensource technologies

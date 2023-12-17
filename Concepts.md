@@ -12,7 +12,7 @@ See [ReFi Barcelona Repository](https://github.com/antontranelis/ReFi-Barcelona/
 see  [Composable Ontologies](https://docs.murmurations.network/about/ontology-composability.html)
 
 ## User-owned Data 
-* user can create, update and delete their profiles
+user can create, update and delete their profiles
 
 ## Adapters
-* User Interfaces can access dynamically different data-sources on runtime
+Enable User Interfaces can access dynamically different data-sources on runtime
