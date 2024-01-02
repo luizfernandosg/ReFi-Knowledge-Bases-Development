@@ -21,7 +21,7 @@ Each objective focuses on a specific aspect of developing and enhancing the ReFi
     - Website Link: [ReFi Barcelona on Obsidian Publish](https://publish.obsidian.md/refi-barcelona/ReFi+Barcelona)
     - GitHub Repo: [ReFi Barcelona GitHub Repository](https://github.com/luizfernandosg/ReFi-Barcelona)
 
-**Objective 2: Document and Enhance Knowledge Base Architecture**
+**Objective 2: Document Knowledge Base Architecture and prepare framework for adoption by Local Nodes**
 
 - **Outline Knowledge Base Architecture**
   - Focus on detailing the structure, entry templates, and interoperability aspects of the knowledge base.
@@ -34,11 +34,30 @@ Each objective focuses on a specific aspect of developing and enhancing the ReFi
     - Explore potential for GitHub and Airtable integration.
   - Reference Material: [ReFi Knowledge Bases Development on GitHub](https://github.com/luizfernandosg/ReFi-Knowledge-Bases-Development)
 
-**Objective 3: Expand ReFi DAO Knowledge Base Using Established Infrastructure**
+**Objective 3: Fork ReFi DAO's Knowledge graph and explore interoperability**
 
 - **Build and Integrate ReFi DAO Knowledge Base**
-  - Utilize the developed infrastructure to structure a comprehensive knowledge base for ReFi DAO.
+  - Structure an initial knowledge base for ReFi DAO using its current 
   - Actions:
     - Import and organize existing data, primarily focusing on open-source information.
     - Assess and implement integrations with tools like Airtable and Murmurations for enhanced functionality and data management. 
+
+**Objective 4: Activate and integrate ReFi DAO working group**
+
+- Set and facilitate open recurrent meetings and work/comms spaces
+- Invite individuals and groups working on the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
