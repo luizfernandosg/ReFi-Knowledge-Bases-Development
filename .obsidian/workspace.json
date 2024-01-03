@@ -15,9 +15,9 @@
               "state": {
                 "file": "Development.canvas",
                 "viewState": {
-                  "x": -1093.6642709737905,
-                  "y": 575.3881756224894,
-                  "zoom": -1.0451648665467892
+                  "x": 108.11899877736909,
+                  "y": -81.90892262098174,
+                  "zoom": -0.9669792406233869
                 }
               }
             }
@@ -151,12 +151,12 @@
   },
   "active": "cf7eb5b45b70c4fd",
   "lastOpenFiles": [
-    "Glossary.md",
     "Concepts.md",
     "Development.canvas",
+    "Glossary.md",
     "README.md",
     "Requirements.md",
-    "Roadmap.md",
-    "Schema.md"
+    "Schema.md",
+    "Roadmap.md"
   ]
 }
