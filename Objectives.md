@@ -1,8 +1,6 @@
 # Objectives
 
-
-
-## TL;DR
+**TL;DR**
 
 Proposal: organize initial activities working around the following objectives as a ReFi DAO working group:
 - 1. Local Node Knowledge Base
@@ -60,6 +58,7 @@ https://www.refidao.com/ecosystem/map
 
 Requirements:
 - access to ReFi DAO's database
+	- APIs
 
 ### **Objective 2.2.:** Explore ReFi DAO's DB data structure and interoperability
 
